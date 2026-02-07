@@ -1,0 +1,13 @@
+{
+  "name": "bounty-stats-widget",
+  "version": "1.0.0",
+  "description": "Embeddable widget showing real-time bounty completion stats",
+  "scripts": {
+    "start": "bun run index.ts",
+    "dev": "bun --watch index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
