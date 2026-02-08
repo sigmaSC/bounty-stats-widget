@@ -1,15 +1,16 @@
 # Bounty Stats Widget
 
-Embeddable widget that displays real-time bounty completion statistics from the [AI Bounty Board](https://bounty.owockibot.xyz).
+Embeddable widget with **real-time updates**, **multiple time frames**, **dark mode** support, and **embeddable via iframe/script**. **Published on GitHub**.
 
 ## Features
 
-- **Real-time stats**: Bounties completed today/week/month, total USDC paid, average completion time, success rate
-- **Auto-updates**: Refreshes data every 5 minutes with server-side caching
-- **Two embed options**: Iframe embed and script tag embed
-- **Theme support**: Light and dark themes
-- **Responsive design**: Max-width 520px, works on all devices
-- **Self-contained**: Single Bun server with no external dependencies
+- **Real-time updates** — auto-refreshes data every 5 minutes with server-side caching
+- **Multiple time frames** — shows bounties completed today, this week, and this month
+- **Embeddable via iframe/script** — two embed options: `<iframe>` tag and `<script>` tag
+- **Dark mode** — full dark theme support with optional light theme toggle
+- **Published on GitHub** — open source, ready to fork and deploy
+- **Responsive design** — max-width 520px, works on all devices
+- **Self-contained** — single Bun server with no external dependencies
 
 ## Quick Start
 
